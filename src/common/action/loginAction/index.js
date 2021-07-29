@@ -36,7 +36,7 @@ export const loginLoading = () => ({
           localStorage.setItem(LocalStorage.MOBILE_NO, form.get('username'));
           localStorage.setItem(LocalStorage.TOKEN, response.data.payloadJson[0]['X-csquare-api-token']);
           localStorage.setItem(LocalStorage.CUST_ID, response.data.payloadJson[0]['X-csquare-api-key']);
-          // Set Roles array here
+          // Set Roles array here 
   
           dispatch(loginSuccess());
           history.push("/home");
