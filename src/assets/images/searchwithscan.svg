@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.5" height="18" viewBox="0 0 22.5 18">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.8;
+      }
+
+      .cls-2 {
+        fill: #5b636a;
+      }
+    </style>
+  </defs>
+  <g id="scan" class="cls-1" transform="translate(0 -48)">
+    <g id="Group_1818" data-name="Group 1818" transform="translate(0 48)">
+      <g id="Group_1817" data-name="Group 1817">
+        <path id="Path_3890" data-name="Path 3890" class="cls-2" d="M3.75,48h-3a.75.75,0,0,0-.75.75v3a.75.75,0,0,0,1.5,0V49.5H3.75a.75.75,0,0,0,0-1.5Z" transform="translate(0 -48)"/>
+      </g>
+    </g>
+    <g id="Group_1820" data-name="Group 1820" transform="translate(18 61.5)">
+      <g id="Group_1819" data-name="Group 1819">
+        <path id="Path_3891" data-name="Path 3891" class="cls-2" d="M387.75,336a.75.75,0,0,0-.75.75V339h-2.25a.75.75,0,1,0,0,1.5h3a.75.75,0,0,0,.75-.75v-3A.75.75,0,0,0,387.75,336Z" transform="translate(-384 -336)"/>
+      </g>
+    </g>
+    <g id="Group_1822" data-name="Group 1822" transform="translate(18 48)">
+      <g id="Group_1821" data-name="Group 1821">
+        <path id="Path_3892" data-name="Path 3892" class="cls-2" d="M387.75,48h-3a.75.75,0,1,0,0,1.5H387v2.25a.75.75,0,1,0,1.5,0v-3A.75.75,0,0,0,387.75,48Z" transform="translate(-384 -48)"/>
+      </g>
+    </g>
+    <g id="Group_1824" data-name="Group 1824" transform="translate(0 61.5)">
+      <g id="Group_1823" data-name="Group 1823">
+        <path id="Path_3893" data-name="Path 3893" class="cls-2" d="M3.75,339H1.5v-2.25a.75.75,0,0,0-1.5,0v3a.75.75,0,0,0,.75.75h3a.75.75,0,0,0,0-1.5Z" transform="translate(0 -336)"/>
+      </g>
+    </g>
+    <g id="Group_1826" data-name="Group 1826" transform="translate(2.25 50.7)">
+      <g id="Group_1825" data-name="Group 1825" transform="translate(0 0)">
+        <rect id="Rectangle_2514" data-name="Rectangle 2514" class="cls-2" width="2" height="12" transform="translate(0 0.3)"/>
+      </g>
+    </g>
+    <g id="Group_1828" data-name="Group 1828" transform="translate(5.85 50.7)">
+      <g id="Group_1827" data-name="Group 1827" transform="translate(0 0)">
+        <rect id="Rectangle_2515" data-name="Rectangle 2515" class="cls-2" width="1" height="9" transform="translate(0.4 0.3)"/>
+      </g>
+    </g>
+    <g id="Group_1830" data-name="Group 1830" transform="translate(8.55 50.7)">
+      <g id="Group_1829" data-name="Group 1829" transform="translate(0 0)">
+        <rect id="Rectangle_2516" data-name="Rectangle 2516" class="cls-2" width="2" height="9" transform="translate(-0.3 0.3)"/>
+      </g>
+    </g>
+    <g id="Group_1832" data-name="Group 1832" transform="translate(12.15 50.7)">
+      <g id="Group_1831" data-name="Group 1831" transform="translate(0 0)">
+        <rect id="Rectangle_2517" data-name="Rectangle 2517" class="cls-2" width="2" height="12" transform="translate(0.1 0.3)"/>
+      </g>
+    </g>
+    <g id="Group_1834" data-name="Group 1834" transform="translate(14.85 50.7)">
+      <g id="Group_1833" data-name="Group 1833" transform="translate(0 0)">
+        <rect id="Rectangle_2518" data-name="Rectangle 2518" class="cls-2" width="1" height="9" transform="translate(0.4 0.3)"/>
+      </g>
+    </g>
+    <g id="Group_1836" data-name="Group 1836" transform="translate(18.45 50.7)">
+      <g id="Group_1835" data-name="Group 1835" transform="translate(0 0)">
+        <rect id="Rectangle_2519" data-name="Rectangle 2519" class="cls-2" width="2" height="12" transform="translate(-0.2 0.3)"/>
+      </g>
+    </g>
+    <g id="Group_1838" data-name="Group 1838" transform="translate(5.85 61.5)">
+      <g id="Group_1837" data-name="Group 1837" transform="translate(0 0)">
+        <rect id="Rectangle_2520" data-name="Rectangle 2520" class="cls-2" width="1" height="1" transform="translate(0.4 0.5)"/>
+      </g>
+    </g>
+    <g id="Group_1840" data-name="Group 1840" transform="translate(8.55 61.5)">
+      <g id="Group_1839" data-name="Group 1839" transform="translate(0 0)">
+        <rect id="Rectangle_2521" data-name="Rectangle 2521" class="cls-2" width="2" height="1" transform="translate(-0.3 0.5)"/>
+      </g>
+    </g>
+    <g id="Group_1842" data-name="Group 1842" transform="translate(14.85 61.5)">
+      <g id="Group_1841" data-name="Group 1841" transform="translate(0 0)">
+        <rect id="Rectangle_2522" data-name="Rectangle 2522" class="cls-2" width="1" height="1" transform="translate(0.4 0.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

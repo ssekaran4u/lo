@@ -1,0 +1,140 @@
+@media only screen and (min-width: 576px) and (max-width: 767px) 
+{
+    /*body {
+        background: #000;
+    }*/
+    .footer-image-second
+    {
+        padding-left: 0;
+    }
+
+    .footer-image-third
+    {
+        padding-left: 0;
+    }
+
+    .footer-image-fourth
+    {
+        padding-left: 0;
+    }
+
+    #footer-above-counter .col-lo-3
+    {
+        width: 53%;
+    }
+
+    #footer-above-counter .footer-above-next-image
+    {
+        width: 43%;   
+    }
+
+    .lo-footer-sub-count-image img
+    {
+        width: 72px;
+    }
+
+    #footer-above-sec .col-lo-2
+    {
+        width: 30%;
+    }
+
+    #footer-above-sec .social-media-button
+    {
+        width: 64%;
+    }
+
+    .footer-above-text
+    {
+        font-size: 24px;
+        padding-bottom: 0;
+    }
+
+    .footer-above-input
+    {
+        width: 344px;
+    }
+
+    .footer-above-subscribe
+    {
+        padding-left: 32px;
+        padding-bottom: 0;
+    }
+
+    .footer-above-social-media
+    {
+        padding-top: 32px;
+        padding-bottom: 40px;
+    }
+
+    .lo-footer-menu .col-lo-3
+    {
+        width: 100%;
+    }
+
+    .lo-footer-image
+    {
+        padding-top: 24px;
+        padding-bottom: 24px;
+        margin-bottom: 32px;
+    }
+
+    .lo-footer-menu .col-lo-2
+    {
+        width: 25%;
+    }
+
+    .lo-footer-content .col-lo-4
+    {
+        width: 32.33333%
+    }
+
+    .lo-footer-sub-image img
+    {
+        height: 48px;
+        padding-right: 8px;
+        padding-left: 0;
+    }
+
+    .lo-footer-sub-text
+    {
+        width: 128px;
+    }
+
+    .lo-footer-sub-text span
+    {
+        font-size: 12px;
+    }
+
+    .lo-footer-sub-text p
+    {
+        font-size: 10px;
+    }
+
+    .lo-footer-sub-menu
+    {
+        padding-top: 0;
+    }
+
+    .copy-right-title
+    {
+        font-size: 10px;
+    }
+
+    #footer
+    {
+        overflow: hidden;
+    }
+
+    .lo-footer-image
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-copy-right-text
+    {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 16px;
+    }
+}

@@ -1,0 +1,45 @@
+@media (min-width: 1280px) 
+{
+    .only-sm {
+        display: none;
+    }
+    .header {
+        padding-top: 28px;
+    }
+    .searchbox .textbox {
+        margin-left: 20px;
+    }
+    .searchscan img {
+        margin-left: 16.2px;
+        margin-right: 16.3px;
+    }
+    .searchbox .searchbtn {
+        width: 56px;
+        padding: 8px 20.5px 8px 19.5px;
+        margin: 4px 4px 4px 32px;
+    }
+    .quicklinkicons li {
+        padding-left: 16px;
+    }
+    .quicklinkicons {
+        margin-left: 48px;
+    }
+    .roof-menu {
+        margin-top: 32px;
+    }
+    .allcategories {
+        width: 248px;
+        padding: 12px 80px 11.8px 40px;
+        margin-right: 16px;
+    }
+    .db-qlinks li {
+        margin-right: 32px;
+    }
+    .db-qlinks-2 li:nth-child(1) {
+        margin-right: 32px;
+    }
+    .order-to-sell {
+        width: 160px;
+        padding: 12px 17px 8px 16px;
+    }
+}

@@ -1,0 +1,26 @@
+.pop-btn 
+{
+    width: 120px;
+    height: 40px;
+    margin: 16px 96px 0 91px;
+    padding: 11px 30px 13px 31px;
+    opacity: 0.95;
+    border-radius: 6px;
+    border: 1px solid #674cf3;
+    background-image: linear-gradient(to right, #674cf3 0%, #8039db 100%);
+    cursor: pointer;
+}
+.pop-btn-text 
+{
+    width: 56px;
+    height: 16px;
+    font-family: 'Quicksand';
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}

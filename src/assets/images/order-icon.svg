@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.01" height="22" viewBox="0 0 20.01 22">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke-width: 0.4px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="order" transform="translate(0.51 -0.5)">
+    <g id="Box" transform="translate(-0.5 0.5)">
+      <path id="Shape-path" class="cls-1" d="M0,0H9.5" transform="translate(0.99 5.211)"/>
+      <path id="Shape-path-2" data-name="Shape-path" class="cls-1" d="M0,0H1.5" transform="translate(13.397 5.211)"/>
+      <path id="Shape-path-3" data-name="Shape-path" class="cls-1" d="M0,0H1.34" transform="translate(17.656 5.211)"/>
+      <g id="Rectangle_2278" data-name="Rectangle 2278" class="cls-2">
+        <rect class="cls-4" width="20" height="22" rx="4"/>
+        <rect class="cls-5" x="1" y="1" width="18" height="20" rx="3"/>
+      </g>
+      <path id="Path_3802" data-name="Path 3802" class="cls-3" d="M179.123,100.025h-.805a.832.832,0,1,1,0-1.664h1.611a.376.376,0,0,0,0-.752H179.1v-.832a.376.376,0,1,0-.752,0v.832h-.027a1.584,1.584,0,1,0,0,3.168h.805a.832.832,0,1,1,0,1.664h-1.611a.376.376,0,0,0,0,.752h.832v.832a.376.376,0,0,0,.752,0v-.832h.027a1.584,1.584,0,1,0,0-3.168Z" transform="translate(-168.729 -87.068)"/>
+    </g>
+  </g>
+</svg>

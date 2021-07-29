@@ -1,0 +1,50 @@
+@media only screen and (min-width: 992px) and (max-width: 1279px)  
+{
+    .only-sm {
+        display: none;
+    }   
+
+
+    /*-----Footer----*/
+    .footer-image-second
+    {
+        padding-left: 0;
+    }
+
+    .footer-image-third
+    {
+        padding-left: 0;
+    }
+
+    .footer-image-fourth
+    {
+        padding-left: 0;
+    }
+
+    .footer-above-text
+    {
+        font-size: 24px;
+    }
+
+    .footer-above-input
+    {
+        width:  520px;
+    }
+
+    .lo-footer-sub-image img
+    {
+        padding-left: 0;
+    }
+
+    .footer-copy-right-text
+    {
+        width: 100%;
+        text-align: left;
+        padding-bottom: 16px;
+    }
+
+    .lo-footer-sub-menu
+    {
+        padding-top: 24px;
+    }
+}

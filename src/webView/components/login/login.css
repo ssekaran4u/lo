@@ -1,0 +1,21 @@
+@media (min-width: 1350px) 
+{
+    .lo-form 
+    {
+        width: 100%;
+        min-height: calc(100vh - 4.5em);
+        overflow-y: auto;
+        overflow-x: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .lo-form-space 
+    {
+	    /* width: 32em; */
+	    /*width: 380px;*/
+	    padding: 2em 0;
+	    width: 50%;
+	}  
+}
+        
